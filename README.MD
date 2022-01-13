@@ -1,7 +1,6 @@
 
 <h1>CrysisWarhead Hack Tool</h1><br >
 
-<hr />
 <img src="https://raw.githubusercontent.com/BresoDEV/Crysis-Warhead-Hack-Tool/main/tool.png" alt = "BresoDEV created this stuff" >
 
 
@@ -9,9 +8,6 @@
 
 <hr />
 <p>Features:</p>
-
-
-
 
 ```C++
 GodMod
