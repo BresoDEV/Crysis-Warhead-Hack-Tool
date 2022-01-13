@@ -29,6 +29,19 @@ Speed Increased
 You can create a backup and restore, if you want original files
 ```
 
+  
+<p>How to install:</p>
+
+
+
+```C++
+Put build EXE on the same game EXE directory 
+```
+
+
+
+
+
 
 
 
