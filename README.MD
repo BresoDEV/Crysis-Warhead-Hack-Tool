@@ -23,7 +23,7 @@ Speed Increased
 <p>Bonus options:</p>
 
 
-```C++
+```LUA
 You can create a backup and restore, if you want original files
 ```
 
